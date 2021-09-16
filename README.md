@@ -1,4 +1,4 @@
 Current Project:
-	Learn HTML
+	<p> Learn HTML </p>
 	Learn CSS
 	Learn JavaScript
