@@ -1,2 +1,2 @@
 Current Project:
-	Basic HTML website with various recipies.
+	Basic HTML website with various recipes.
