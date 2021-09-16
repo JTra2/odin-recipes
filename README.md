@@ -1,4 +1,2 @@
 Current Project:
-	<p> Learn HTML </p>
-	Learn CSS
-	Learn JavaScript
+	Basic HTML website with various recipies.
